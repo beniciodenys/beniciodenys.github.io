@@ -1,6 +1,7 @@
-# [my github profile](https://github.com/beniciodenys)
 # Denys Morozov
 Test GitHub Pages
+
+[My github profile](https://github.com/beniciodenys)
 
 [First Experience](https://beniciodenys.github.io/coolinar-jquery/ "not adaptive, Jquery used") - Not adaptive, Jquery used
 
