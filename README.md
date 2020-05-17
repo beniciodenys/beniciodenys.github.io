@@ -1,4 +1,4 @@
-# [beniciodenys.github.io](https://github.com/beniciodenys "My github")
+# [my github profile](https://github.com/beniciodenys)
 # Denys Morozov
 Test GitHub Pages
 
