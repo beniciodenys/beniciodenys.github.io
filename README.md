@@ -1,5 +1,4 @@
 # Denys Morozov
-Test GitHub Pages
 
 [My github profile](https://github.com/beniciodenys)
 
