@@ -6,4 +6,4 @@
 
 [Adaptive Page](https://beniciodenys.github.io/first-adaptive/ "test adaptive web page") - Test adaptive web page
 
-[React.js](https://beniciodenys.github.io/first-adaptive/ "test adaptive web page") - Test React library
+[React.js](https://beniciodenys.github.io/coolinar-react/ "test React library") - Test React library
