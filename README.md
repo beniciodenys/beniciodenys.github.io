@@ -3,7 +3,7 @@
 [My github profile](https://github.com/beniciodenys)
 
 
-[CorporateLandingPage](https://beniciodenys.github.io/CorporateLandingPage/ "corporate landing page") - Adaptive landingp page for practice (pixel perfect for screen resolution 1440px) 
+[Corporate Landing Page](https://beniciodenys.github.io/CorporateLandingPage/ "corporate landing page") - Adaptive landing page for practice (pixel perfect for screen resolution 1440px) 
 
 [Adaptive Page](https://beniciodenys.github.io/first-adaptive/ "test adaptive web page") - Test adaptive web page
 
