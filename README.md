@@ -2,6 +2,7 @@
 
 [My github profile](https://github.com/beniciodenys)
 
+[Boostfolia](https://beniciodenys.github.io/boostfolia/ "boostfolia") - One page website for practice 
 
 [Corporate Landing Page](https://beniciodenys.github.io/CorporateLandingPage/ "corporate landing page") - Adaptive landing page for practice (pixel perfect for screen resolution 1440px) 
 
