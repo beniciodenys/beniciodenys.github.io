@@ -10,4 +10,4 @@
 
 [repo](https://github.com/beniciodenys/coolinar-react) | [React.js](https://beniciodenys.github.io/coolinar-react/ "test React library") - Test React library
 
-[repo](https://github.com/beniciodenys/coolinar-jquery) | [First Experience](https://beniciodenys.github.io/coolinar-jquery/ "not adaptive, jQuery used") - Not adaptive, jQuery used
+[repo](https://github.com/beniciodenys/coolinar-jquery) | [First Experience](https://beniciodenys.github.io/coolinar-jquery/ "not adaptive, jQuery used") - Not adaptive multi-page website, jQuery used
